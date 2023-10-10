@@ -1,0 +1,6 @@
+scrapy
+beautifulsoup4
+requests
+stem
+PySocks
+fake-useragent
